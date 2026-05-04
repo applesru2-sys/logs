@@ -1,4 +1,4 @@
-discord.py-self
-requests
+discord.py
 gspread
 oauth2client
+requests
