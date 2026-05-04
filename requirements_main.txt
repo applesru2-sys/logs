@@ -1,4 +1,0 @@
-discord.py-self
-gspread
-oauth2client
-Pillow
